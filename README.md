@@ -1,2 +1,2 @@
 # GodotFiveInRowSolverModule
- Just add in godot/modules and build solution
+ Just add folder FiveInRowSolver in godot/modules and build solution with scons.
