@@ -1,5 +1,5 @@
-#ifndef TICTACTOESOLVER_H
-#define TICTACTOESOLVER_H
+#ifndef FIVEINROWSOLVER_H
+#define FIVEINROWSOLVER_H
 
 #include "core/reference.h"
 #include "CycleMatrix.h"
@@ -11,7 +11,7 @@ enum class PlayerType {
 	AI
 };
 
-class TicTacToeSolver : public Reference {
+class FiveInRowSolver : public Reference {
 	GDCLASS(TicTacToeSolver, Reference);
 
 protected:
